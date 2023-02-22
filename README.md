@@ -214,10 +214,8 @@ The process requires three terminal commands:
 > it's a good idea to go back and review the two lessons mentioned above before
 > you continue.
 
-[basics]:
-  https://github.com/learn-co-curriculum/phase-0-git-version-control-basics
-[pushing-with-git]:
-  https://github.com/learn-co-curriculum/phase-0-git-pushing-code
+[basics]: https://github.com/learn-co-curriculum/phase-0-git-version-control-basics
+[pushing-with-git]: https://github.com/learn-co-curriculum/phase-0-git-pushing-code
 
 **NEW:** You will use git commands to commit and push your code up to GitHub.
 
